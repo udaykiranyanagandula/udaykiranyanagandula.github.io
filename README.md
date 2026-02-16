@@ -78,7 +78,3 @@ CGPA: 7.6 | 2019 – 2022
 ## 🏆 Awards & Recognition
 - Infosys Platinum Club Member  
 - Rated **3 Outstanding** in Annual Performance Reviews  
-
----
-
----
