@@ -35,7 +35,7 @@ Recognized for exceptional performance, multiple awards, and consistent SLA adhe
 - Basics of Recruiting  
 
 ### Tools & Technologies
-- **:contentReference[oaicite:1]{index=1}** Fusion HCM  
+- Fusion HCM  
 - ServiceNow  
 - MS Office  
 - SFTP Integrations  
