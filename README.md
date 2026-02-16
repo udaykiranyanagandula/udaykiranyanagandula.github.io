@@ -1,4 +1,4 @@
-# Oracle Fusion HCM Techno-Functional Consultant – Resume
+# Oracle Fusion HCM Techno-Functional Consultant
 
 ## 👤 Profile
 **Name:** Yanagandula Uday Kiran  
@@ -7,22 +7,7 @@
 **Primary Domain:** Oracle Fusion HCM  
 **Current Role:** Senior Systems Engineer  
 
-📧 Email: yanagandula.udaykiran2000@gmail.com  
-📞 Phone: +91 80749 86849  
-🔗 LinkedIn: https://www.linkedin.com/in/uday-kiran-yanagandula/
-
----
-
-## 📄 About This Resume
-This repository contains the professional resume of **Yanagandula Uday Kiran**, an **Oracle-certified Fusion HCM Techno-Functional Consultant** with hands-on experience in both technical and functional HCM modules.
-
-The resume highlights:
-- End-to-end Oracle Fusion HCM implementations  
-- Large-scale data migrations and integrations  
-- Payroll, Core HR, Absence, and Learning module expertise  
-- Strong techno-functional ownership and production support experience  
-
----
+----------
 
 ## 🧠 Professional Summary
 Oracle-certified Techno-Functional Consultant with 3+ years of experience delivering and supporting enterprise-grade Oracle Fusion HCM solutions at **:contentReference[oaicite:0]{index=0}**. Specialized in HCM Extracts, BI Publisher, HDL, HSDL, OTBI, Fast Formulas, and SQL/PLSQL, with strong functional knowledge of Core HR, Absence Management, Payroll, and Oracle Learning.
@@ -88,7 +73,6 @@ CGPA: 7.6 | 2019 – 2022
 - Oracle Absence Management Cloud 2024 Implementation Professional  
 - Oracle Global Payroll Cloud Implementation Professional  
 - Oracle HCM Business Process Foundations Associate (Rel 2)  
-
 ---
 
 ## 🏆 Awards & Recognition
@@ -96,18 +80,5 @@ CGPA: 7.6 | 2019 – 2022
 - Rated **3 Outstanding** in Annual Performance Reviews  
 
 ---
-
-## 📎 Files Included
-- `UdayKiran_OracleHCMTechnoFunctional_Resume.pdf` – Detailed professional resume
-
----
-
-## 📌 Usage
-This resume is intended for:
-- Recruiters and hiring managers  
-- Oracle HCM implementation partners  
-- ERP consulting roles (Techno-Functional / Technical)  
-
-Feel free to download, review, and connect via LinkedIn.
 
 ---
